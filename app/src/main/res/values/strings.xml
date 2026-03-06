@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2_Variant16</string>
+    <string name="choose_phone_type">Оберіть тип телефону:</string>
+    <string name="choose_brand">Оберіть фірму телефону:</string>
+    <string name="brand_samsung">Samsung</string>
+    <string name="brand_apple">Apple</string>
+    <string name="brand_xiaomi">Xiaomi</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_message">Будь ласка, оберіть фірму телефону!</string>
+
+    <string-array name="phone_types">
+        <item>Смартфон</item>
+        <item>Кнопковий телефон</item>
+        <item>Складаний телефон (Fold)</item>
+    </string-array>
+</resources>
